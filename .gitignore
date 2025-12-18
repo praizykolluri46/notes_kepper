@@ -1,0 +1,29 @@
+# Node
+node_modules
+.env
+
+
+# Vite
+dist/
+dist-ssr/
+.vite/
+
+# React
+build/
+
+# Logs
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Cache
+.cache/
+.eslintcache
